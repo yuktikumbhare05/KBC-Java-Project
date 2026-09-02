@@ -1,2 +1,3 @@
 # KBC Java Project
 A Java-based Kaun Banega Crorepati quiz game.
+KBC – Kaun Banega Crorepati is a console-based quiz game developed in Java. The game consists of 10 multiple-choice questions with increasing prize money. Players have two lifelines: 50:50, which removes two incorrect options, and Hint, which provides a clue to the answer. The game checks the player's answer, displays the result, and shows the final winnings. It also includes a replay option and demonstrates basic Java concepts such as classes, objects, arrays, ArrayList, loops, conditional statements, methods, and exception handling.
